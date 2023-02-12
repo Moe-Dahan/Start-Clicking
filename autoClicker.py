@@ -1,4 +1,3 @@
-from sqlite3 import Row
 import tkinter as tk
 from pynput.mouse import Button, Controller
 import time
